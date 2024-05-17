@@ -4,20 +4,20 @@
   
   "themeConfig": {
     "colorMode": {
-      "defaultMode": "dark",
+      "defaultMode": "light",
       "disableSwitch": false
     },
     "navbar": {
       "title": " ",
       "logo": {
         "light": "image/logo-black.svg",
-        "dark": "image/logo-black.png"
+        "dark": "image/logo-black.svg"
       },
       "items": [
         {
           "type": "docSidebar",
           "sidebarId": "mySidebar",
-          "label": "Documentation"
+         
         },
         {
           "type": "default",
@@ -60,10 +60,7 @@
           "logo": "LinkedIn",
           "href": "https://www.linkedin.com/company/spreadingai"
         },
-        {
-          "logo": "Discord",
-          "href": "https://discord.gg/pgJFhUwzAU"
-        },
+      
         {
           "logo": "GitHub",
           "href": "https://github.com/spreadingai"
